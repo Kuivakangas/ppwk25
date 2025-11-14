@@ -20,7 +20,11 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      <div><LoginForm /></div>
+      <div>
+        <p>{`\n`}</p>
+        <LoginForm />
+        <p>{`\n`}</p>
+      </div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
