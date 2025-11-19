@@ -4,6 +4,8 @@ import { initializeApp } from "firebase/app";
 import firebaseConfig from "../firebaseConfig";
 
 function LoginForm() {
+  console.log("LoginForm renderöity");
+  
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
     
