@@ -22,7 +22,7 @@ function App() {
       <h1>Vite + React</h1>
       <div>
         <p>{`\n`}</p>
-        <LoginForm/>
+        <LoginForm />
         <p>{`\n`}</p>
       </div>
       <div className="card">
