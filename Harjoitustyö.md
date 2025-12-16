@@ -2,6 +2,9 @@
 
 [Linkki harjoitustyöhön](./Harjoitustyö/index.html)
 
+Sähköposti: maija@maija.fi
+Salasana: 123456
+
 ### Sivuston kuvaus ja toteutus
 
 Sivusto on kehitetty Haaga-Helia ammattikorkeakoulun Pilvipalvelut web-kehityksessä -kurssin harjoitustyönä. Kurssilla olemme perehtyneet  autentikoinnin, tietokantojen ja dynaamisten käyttöliittymien käyttöön. Sivusto on luotu HTML-, CSS- ja JavaScript-kielillä. Parcel-työkalulla sain tiedostot pakattua tehokkaasti ja luotua projektista dist-kansion.
