@@ -11,16 +11,22 @@ Toimivuus on testattu eri kokoisilla päätelaitteilla. Sivusto skaalautuu hyvin
 
 **Desktop** testattu 1920×1080 ja 1366×768 kokoisilla näytöillä.
 
-![Kirjatumissivu](Kirjautumissivu.png) ![Etusivu](Etusivu.png)
+![Kirjatumissivu](Kirjautumissivu.png){#kirjautumis-sivu} 
+
+![Etusivu](Etusivu.png)
 
 
 **Mobiili** testattu eri kokoisilla mobiililaitteilla.
 
-![Kirjautumissivu](mobiili1.png) ![Etusivu](mobiili2.png)
+![Kirjautumissivu](mobiili1.png) 
+
+![Etusivu](mobiili2.png)
 
 **Desktop** testattu erikokoisilla tableteilla.
 
-![Kirjautumissivu pystysuunnassa](tablet1.png) ![Kirjautumissivu vaakasuunnassa](tablet2.png)
+![Kirjautumissivu pystysuunnassa](tablet1.png) 
+
+![Kirjautumissivu vaakasuunnassa](tablet2.png)
 
 ### Toimivuus eri selaimilla
 
