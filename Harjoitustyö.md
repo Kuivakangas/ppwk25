@@ -1,6 +1,6 @@
 # Harjoitustyö
 
-[Linkki harjoitustyöhön](./Harjoitustyö2/index.html)
+[Linkki harjoitustyöhön](./Harjoitustyö/index.html)
 
 ## Harjoitustyön testaus
 
