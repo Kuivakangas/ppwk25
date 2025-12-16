@@ -22,7 +22,7 @@ Toimivuus on testattu eri kokoisilla päätelaitteilla. Sivusto skaalautuu hyvin
 
 ![Etusivu](mobiili2.png)
 
-**Desktop** testattu erikokoisilla tableteilla, skaalautuu kaikissa oikein.
+**Tablet** testattu erikokoisilla tableteilla, skaalautuu kaikissa oikein.
 
 ![Kirjautumissivu pystysuunnassa](tablet1.png) 
 
@@ -40,6 +40,8 @@ Testatut selaimet:
 ### Sivujen latautumisaika
 
 Sivujen latautumisaika testattu PageSpeed Insight työkalulla.
+
+![Latautumisaika](latautumisaika.png)
 
 
 ### Yhteenveto
