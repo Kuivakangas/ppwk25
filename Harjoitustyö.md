@@ -6,7 +6,7 @@
 
 Sivusto on kehitetty Haaga-Helia ammattikorkeakoulun Pilvipalvelut web-kehityksessä -kurssin harjoitustyönä. Kurssilla olemme perehtyneet  autentikoinnin, tietokantojen ja dynaamisten käyttöliittymien käyttöön. Sivusto on luotu HTML-, CSS- ja JavaScript-kielillä. Parcel-työkalulla sain tiedostot pakattua tehokkaasti ja luotua projektista dist-kansion.
 
-Tällä sivustolla Helsinkiin matkaava käyttäjä näkevät Helsingin sään reaaliajassa ja pystyvät sen pohjalta luoda pakkauslistaa, joka tallentuu sivustolle. Autentikoinnissa on käyettty Firebasea, Säätä haetaan kolmannen osapuolen REST-API:lla (Openweathermap.org) ja pakkauslista tallennetaan firestore-tietokantaan. 
+Tällä sivustolla Helsinkiin matkaavat käyttäjät näkevät Helsingin sään reaaliajassa ja pystyvät sen pohjalta luoda pakkauslistaa, joka tallentuu sivustolle. Autentikoinnissa on käyettty Firebasea, Säätä haetaan kolmannen osapuolen REST-API:lla (Openweathermap.org) ja pakkauslista tallennetaan firestore-tietokantaan. 
 
 ### Nielsen heuristiikkojen mukainen käytettävyys 
 
