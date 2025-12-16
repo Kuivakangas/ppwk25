@@ -3,6 +3,7 @@
 [Linkki harjoitustyöhön](./Harjoitustyö/index.html)
 
 Sähköposti: maija@maija.fi
+
 Salasana: 123456
 
 ### Sivuston kuvaus ja toteutus
