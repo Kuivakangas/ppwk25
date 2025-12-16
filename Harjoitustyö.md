@@ -6,7 +6,7 @@
 
 Sivusto on kehitetty Haaga-Helia ammattikorkeakoulun Pilvipalvelut web-kehityksessä -kurssin harjoitustyönä. Kurssilla olemme perehtyneet  autentikoinnin, tietokantojen ja dynaamisten käyttöliittymien käyttöön. Sivusto on luotu HTML-, CSS- ja JavaScript-kielillä. Parcel-työkalulla sain tiedostot pakattua tehokkaasti ja luotua projektista dist-kansion.
 
-Tällä sivustolla Helsinkiin matkaavat käyttäjät näkevät Helsingin sään reaaliajassa ja pystyvät sen pohjalta luoda pakkauslistaa, joka tallentuu sivustolle. Autentikoinnissa on käyettty Firebasea, Säätä haetaan kolmannen osapuolen REST-API:lla (Openweathermap.org) ja pakkauslista tallennetaan firestore-tietokantaan. 
+Tällä sivustolla Helsinkiin matkaavat käyttäjät näkevät Helsingin sään reaaliajassa ja pystyvät sen pohjalta luoda pakkauslistaa, joka tallentuu sivustolle. Autentikoinnissa on käyettty Firebasea, säätä haetaan kolmannen osapuolen REST-API:lla (Openweathermap.org) ja pakkauslista tallennetaan firestore-tietokantaan. 
 
 ### Nielsen heuristiikkojen mukainen käytettävyys 
 
@@ -16,7 +16,7 @@ Kaikki testaajat pitivät sivustoa visuaalisesti selkeänä, helposti ymmärret�
 
 ### Saavutettavuus
 
-**Näkyvyys(Perceivable)** Tekstin ja taustan väreissä on riittävä kontrasti. **Toiminnallisuus(Operable)** Kaikki sivuston ominaisuudet ovat käytettävissä pelkän näppäimistön avulla. **Ymmärrettävyys(Understandable)** Sivuston vuorovaikutus on selkeä ja elementit visuaalisesti yhtenäisiä. **Vahvistettavuus(Robust)** Sivusto toimii eri selaimilla ja laitteilla.
+**Näkyvyys (Perceivable)** tekstin ja taustan väreissä on riittävä kontrasti. **Toiminnallisuus (Operable)** kaikki sivuston ominaisuudet ovat käytettävissä pelkän näppäimistön avulla. **Ymmärrettävyys (Understandable)** sivuston vuorovaikutus on selkeä ja elementit visuaalisesti yhtenäisiä. **Vahvistettavuus (Robust)** sivusto toimii eri selaimilla ja laitteilla.
 
 ## Harjoitustyön testaus
 
