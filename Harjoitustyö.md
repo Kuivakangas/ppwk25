@@ -2,7 +2,7 @@
 
 [Linkki harjoitustyöhön](./Harjoitustyö/index.html)
 
-Sähköposti: maija@maija.fi
+Sähköposti: maija@maija.com
 
 Salasana: 123456
 
